@@ -1,0 +1,41 @@
+men 1 women 2 clothing 3 footwear 4 discounted 5 nondiscounted 6
+135
+1351 Jeans 1000 20 
+1352 Shirt 1800 35 
+1353 T-shirt 1100 15 
+1354 Trouser 1500 25 
+235
+2351 Kurti 1000 20
+2352 Jeans 1800 35
+2353 Skirt 1100 15
+2354 T-shirt 1500 25
+145
+1451 Shoe* 500 20
+1452 Shoes 1800 45
+1453 Flat* 499 10
+1454 Shoes 1500 25
+245
+2451 Shoes* 500 20 
+2452 Heels 1800 45
+2453 Flats* 499 10
+2454 Shoes 1500 25
+136
+1361 Jeans 2000 0 
+1362 Shirt 980 0 
+1363 T-shirt 1000 0 
+1364 Trouser 1900 0
+236 
+2361 Kurti 1000 0
+2362 Jeans 2500 0
+2363 Skirt 900 0
+2364 T-shirt 1800 0
+146
+1461 Shoes* 400 0
+1462 Shoes 1500 0
+1463 Flat* 500 0
+1464 Sports 1100 0
+246
+2461 Shoes* 500 0 
+2462 Heels 1100 0
+2463 Flats* 459 0
+2464 Shoes 1020 0
